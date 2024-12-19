@@ -1,0 +1,26 @@
+body {
+	background-color: beige;
+	text-align: center;
+}
+.__main {
+	width: 500px;
+	border: 3px solid rgb(5, 247, 5);
+	display: inline-block;
+	padding: 20px;
+	border-radius: 30px;
+	background-color: rgb(225, 128, 10);
+}
+
+.__button {
+	background-color: rgb(4, 248, 20);
+	border-radius: 30px;
+	padding: 5px 50px;
+}
+.__value {
+	color: rgb(3, 32, 253);
+	font-size: 100px;
+	margin: 0;
+}
+.__icon {
+	color: green;
+}
